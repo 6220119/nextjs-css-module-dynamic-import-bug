@@ -1,0 +1,9 @@
+.default {
+  background: #dcdcdc;
+  padding: 12px;
+  min-width: 48px;
+}
+
+.default:active {
+  transform: translate(0, 4px);
+}
