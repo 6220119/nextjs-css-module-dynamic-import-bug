@@ -14,3 +14,7 @@ at the time of writing, this issue is reproducible with `next@canary (12.2.6-can
 > **Note** 
 > - The issue doesn't happen if the Contact page is the first page loaded (at step 3, do a page refresh).
 > - The issue also doesn't happen in local development (because `style-loader` is used in dev mode instead of `css-loader`)
+
+## Video capture
+
+https://user-images.githubusercontent.com/1059583/187365088-afe7065c-d6a9-4efa-a1d0-fe82c17b7029.mp4
